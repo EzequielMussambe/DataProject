@@ -1,0 +1,2 @@
+Mudar o sistema de cordenada do basemap, clique em qualquer parte   om right clique no map, then goes to  dataframe perperties.  Then transformation
+Covert the coordinate to amaerican. Then clquie add to change the cordinade to be the same of the layer. Selectiona o method de transformacao 
